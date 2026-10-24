@@ -18,6 +18,7 @@
 ## 📝 最新博客 · [jiazhe.website](https://jiazhe.website/#/blog)
 
 <!-- BLOG:START -->
+- [给学生和社团打分的算法：多标签加权推荐从 0 到 1 的演进](https://jiazhe.website/#/blog/club-match-algorithm) — 2026-10-23 · 推荐算法
 - [让 doubao-seed-2-0-mini 不再返回空结果：thinking 模式踩坑记](https://jiazhe.website/#/blog/doubao-empty-response) — 2026-10 · AI
 - [Campus Club AI 的 AI 助手是怎么炼成的：7 个意图检测 Agent 的设计与踩坑](https://jiazhe.website/#/blog/campus-club-ai-agents) — 2026-10 · AI
 - [不买服务器，把个人主页搬上 jiazhe.website：OSS + Supabase 无服务器架构实录](https://jiazhe.website/#/blog/jiazhe-website-serverless) — 2026-10 · 建站
