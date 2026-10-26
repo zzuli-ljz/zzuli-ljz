@@ -19,10 +19,10 @@
 
 <!-- BLOG:START -->
 - [给学生和社团打分的算法：多标签加权推荐从 0 到 1 的演进](https://jiazhe.website/#/blog/club-match-algorithm) — 2026-10-23 · 推荐算法
-- [让 doubao-seed-2-0-mini 不再返回空结果：thinking 模式踩坑记](https://jiazhe.website/#/blog/doubao-empty-response) — 2026-10 · AI
 - [Campus Club AI 的 AI 助手是怎么炼成的：7 个意图检测 Agent 的设计与踩坑](https://jiazhe.website/#/blog/campus-club-ai-agents) — 2026-10 · AI
 - [不买服务器，把个人主页搬上 jiazhe.website：OSS + Supabase 无服务器架构实录](https://jiazhe.website/#/blog/jiazhe-website-serverless) — 2026-10 · 建站
-- [ESP32 软件 UART 的坑：从时序错乱到稳定收发](https://jiazhe.website/#/blog/esp32-software-uart) — 2026-09 · 嵌入式
+- [没有一张贴图、没有一个音频文件：两个浏览器 3D 游戏的程序化生成实录](https://jiazhe.website/#/blog/procedural-3d-games) — 2026-10 · 3D
+- [让 doubao-seed-2-0-mini 不再返回空结果：thinking 模式踩坑记](https://jiazhe.website/#/blog/doubao-empty-response) — 2026-10 · AI
 <!-- BLOG:END -->
 
 ---
